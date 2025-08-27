@@ -12,7 +12,7 @@ I've been practicing coding for 4 years now and I'm just about to enter Universi
 * 🧠  I'm currently learning Javascript and Python.
 * 👥  I'm looking to collaborate on Interesting projects.
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://google.com)
 
 ### Socials
 
