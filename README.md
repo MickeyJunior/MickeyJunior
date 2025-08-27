@@ -29,6 +29,9 @@ I've been practicing coding for 4 years now and I'm just about to enter Universi
  <a href="https://github.com/MickeyJunior" target="_blank" rel="noreferrer">
     <img src="https://skillicons.dev/icons?i=github" />
   </a>
+  <a href="https://www.x.com/Mickey0_23" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=twitter" />
+  </a>
 
 </p>
 
