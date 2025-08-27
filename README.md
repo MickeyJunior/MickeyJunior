@@ -13,15 +13,15 @@ I've been practicing coding for 4 years now and I'm just about to enter Universi
 * 👥  I'm looking to collaborate on Interesting projects.
 
 [![My Skills](https://skillicons.dev/icons?i=c)](https://docs.microsoft.com/en-us/cpp/?view=msvc-170)
-[![My Skills](https://skillicons.dev/icons?i=git)](https://git-scm.com/" target="_blank")
-[![My Skills](https://skillicons.dev/icons?i=py)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=js)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=vscode)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=html)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=css)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=mysql)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=linux)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=ubuntu)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git)](https://git-scm.com/)
+[![My Skills](https://skillicons.dev/icons?i=py)](https://www.python.org/)
+[![My Skills](https://skillicons.dev/icons?i=js)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![My Skills](https://skillicons.dev/icons?i=vscode)](https://code.visualstudio.com/)
+[![My Skills](https://skillicons.dev/icons?i=html)](https://developer.mozilla.org/en-US/docs/Glossary/HTML5)
+[![My Skills](https://skillicons.dev/icons?i=css)](https://www.w3.org/TR/CSS/#css)
+[![My Skills](https://skillicons.dev/icons?i=mysql)](https://www.mysql.com/)
+[![My Skills](https://skillicons.dev/icons?i=linux)](https://www.linux.org)
+[![My Skills](https://skillicons.dev/icons?i=ubuntu)](https://ubuntu.com/)
 
 ### Socials
 
