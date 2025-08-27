@@ -13,7 +13,7 @@ I've been practicing coding for 4 years now and I'm just about to enter Universi
 * 👥  I'm looking to collaborate on Interesting projects.
 
 [![My Skills](https://skillicons.dev/icons?i=js)](https://google.com)
-[![My Skills](https://skillicons.dev/icons?i=html,css,wasm)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html)](https://developer.mozilla.org/en-US/docs/Glossary/HTML5)
 
 ### Socials
 
