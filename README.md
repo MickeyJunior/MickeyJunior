@@ -29,7 +29,6 @@ I've been practicing coding for 4 years now and I'm just about to enter Universi
 [![My Skills](https://skillicons.dev/icons?i=linkedin)](https://github.com/MickeyJunior)
 [![My Skills](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/lucassgi_)
 [![My Skills](https://skillicons.dev/icons?i=discord)](https://discord.com/users/mickey08)
-[![My Skills](https://skillicons.dev/icons?i=github)](https://github.com/MickeyJunior)
 
 
 ### Badges ###
