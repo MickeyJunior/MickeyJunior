@@ -7,7 +7,7 @@ I want to become a Full Stack Developer
 I've been practicing coding for 4 years now and I'm just about to enter University.
 
 * 🌍  I'm based in Valencia, Spain
-* 🖥️  See my portfolio at [here](http://github.com/MickeyJunior)
+* 🖥️  See my portfolio [here](http://github.com/MickeyJunior)
 * 🚀  I'm currently working on [My portfolio](http://github.com/MickeyJunior)
 * 🧠  I'm currently learning Javascript and Python.
 * 👥  I'm looking to collaborate on Interesting projects.
@@ -26,11 +26,10 @@ I've been practicing coding for 4 years now and I'm just about to enter Universi
 ### Socials
 [![My Skills](https://skillicons.dev/icons?i=github)](https://github.com/MickeyJunior)
 [![My Skills](https://skillicons.dev/icons?i=twitter)](https://www.x.com/Mickey0_23)
+[![My Skills](https://skillicons.dev/icons?i=linkedin)](https://github.com/MickeyJunior)
+[![My Skills](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/lucassgi_)
+[![My Skills](https://skillicons.dev/icons?i=discord)](https://discord.com/users/mickey08)
 [![My Skills](https://skillicons.dev/icons?i=github)](https://github.com/MickeyJunior)
-[![My Skills](https://skillicons.dev/icons?i=github)](https://github.com/MickeyJunior)
-[![My Skills](https://skillicons.dev/icons?i=github)](https://github.com/MickeyJunior)
-  <a href="https://www.x.com/Mickey0_23" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=twitter" />
 
 
 ### Badges ###
