@@ -13,7 +13,7 @@ I've been practicing coding for 4 years now and I'm just about to enter Universi
 * 👥  I'm looking to collaborate on Interesting projects.
 
 [![My Skills](https://skillicons.dev/icons?i=c)](https://docs.microsoft.com/en-us/cpp/?view=msvc-170)
-[![My Skills](https://skillicons.dev/icons?i=git)](https://git-scm.com/"&target="_blank")
+[![My Skills](https://skillicons.dev/icons?i=git)](https://git-scm.com/" target="_blank")
 [![My Skills](https://skillicons.dev/icons?i=py)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=js)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=vscode)](https://skillicons.dev)
