@@ -24,13 +24,14 @@ I've been practicing coding for 4 years now and I'm just about to enter Universi
 [![My Skills](https://skillicons.dev/icons?i=ubuntu)](https://ubuntu.com/)
 
 ### Socials
-
- <a href="https://github.com/MickeyJunior" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=github" />
+[![My Skills](https://skillicons.dev/icons?i=github)](https://github.com/MickeyJunior)
+[![My Skills](https://skillicons.dev/icons?i=twitter)](https://www.x.com/Mickey0_23)
+[![My Skills](https://skillicons.dev/icons?i=github)](https://github.com/MickeyJunior)
+[![My Skills](https://skillicons.dev/icons?i=github)](https://github.com/MickeyJunior)
+[![My Skills](https://skillicons.dev/icons?i=github)](https://github.com/MickeyJunior)
   <a href="https://www.x.com/Mickey0_23" target="_blank" rel="noreferrer">
     <img src="https://skillicons.dev/icons?i=twitter" />
 
-</p>
 
 ### Badges ###
 
